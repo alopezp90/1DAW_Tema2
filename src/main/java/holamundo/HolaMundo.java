@@ -14,4 +14,5 @@ public class HolaMundo {
         System.out.println("Hola Mundo");
     }
     
+//Esto es una prueba de SmartGit
 }
